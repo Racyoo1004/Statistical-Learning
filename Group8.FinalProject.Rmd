@@ -10,8 +10,8 @@ library(tidyverse)
 library(pls)
 library(glmnet)
 
-train <- read.csv("C:/Users/bryan/Downloads/train.ames.csv")
-test <- read_csv("C:/Users/bryan/Downloads/test_new.csv")
+train <- read.csv("train.ames.csv")
+test <- read_csv("test_new.csv")
 ```
 
 ## Part 1: Exploratory Data Analysis
